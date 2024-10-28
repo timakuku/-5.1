@@ -1,0 +1,40 @@
+table{
+    border: 1px solid ;
+    border-color: rgb(189, 25, 168);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid ;
+    border-color: rgb(0, 204, 37);
+    table-layout: auto;
+}
+.play{
+    color: rgb(37, 51, 155);
+}
+.gray{
+    background-color: gray;
+}
+.text-transform {
+    text-transform: uppercase; 
+}
+
+.font-variant {
+    font-variant: small-caps;
+}
+
+.text-decoration {
+    text-decoration: underline;
+}
+
+.letter-spacing {
+    letter-spacing: 7px;
+}
+
+.word-spacing {
+    word-spacing: 20px;
+    text-decoration: underline;
+
+}
